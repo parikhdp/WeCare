@@ -1,5 +1,4 @@
 # WeCare
 PROBLEM STATEMENT-
 TO COMBAT THE LACK OF AVAILABILITY OF MEDICAL HISTORY OF A PATIENT
-For receiving proper treatment for an ongoing health issue there is a very strong need to accurately provide to your current doctor, older prescriptions and follow up medical reports in the correct timeline without any discrepancy for future diagnosis. Have you ever faced the common problems in this regard like physical deterioration, misplacement and loss, missing information or limited accessibility as paper-based documents are often stored in physical files, which can be located in different locations or departments within a healthcare facility.
-Our website WeCare, helps in solving all these problems by centralizing a patient’s medical history which gets updated every time a patient gets a diagnosis and can be accessed by the hospitals and doctors around the country through the unique login credentials of patients. The data is end to end encrypted and thus no one including WeCare can access it without a proper key. The website works as a database for storing and accessing different types of healthcare documents, enhancing overall efficiency and quality of patient care
+
